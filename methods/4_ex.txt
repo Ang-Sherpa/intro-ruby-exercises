@@ -1,0 +1,14 @@
+
+Ex.4 What will the following code print to the screen?
+
+def scream(words)
+  words = words + "!!!!"
+  return
+  puts words
+end
+
+scream("Yippeee")
+
+It won't print anything because the return is invoked before the puts within the 
+scream method definition, so calling the method scream without puts will not 
+print anything on the acreen.
