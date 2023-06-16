@@ -1,0 +1,7 @@
+Exercise 4: What will each block of code below print to the screen?
+
+# Snippet 1 --> prints FALSE
+
+# Snippet 2 --> prints Did you get it right?
+
+# Snippet 2 --> prints Alright now!
